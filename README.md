@@ -17,11 +17,11 @@ Functionalities in the application ---
 ---Plasmacenters collaborate with hospitals and NGOs in transiting plasma, can view and update available stock
 
 
-<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/Img1.png" alt="Chatbot" width="800" height="600">
-<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/Img2.png" alt="Chatbot" width="800" height="600">
-<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/Img3.png" alt="Chatbot" width="800" height="600">
-<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/Img4.png" alt="Chatbot" width="800" height="600">
-<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/Img5.png" alt="Chatbot" width="800" height="600">
-<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/Img6.png" alt="Chatbot" width="800" height="600">
+<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/Img1.png" alt="plasma" width="800" height="600">
+<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/Img2.png" alt="plasma" width="800" height="600">
+<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/img3.png" alt="plasma" width="800" height="600">
+<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/img4.png" alt="plasma" width="800" height="600">
+<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/img5.png" alt="plasma" width="800" height="600">
+<img src="https://github.com/Krupali04/Plasma-Connect/blob/main/img/img6.png" alt="plasma" width="800" height="600">
 
 

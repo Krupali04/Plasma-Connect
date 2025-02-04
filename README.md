@@ -1,5 +1,4 @@
-# FinalProject
-#Plasma Managery
+# Plasma Managery
 
 DESCRIPTION OF THE APPLICATION
 
@@ -17,13 +16,7 @@ Functionalities in the application ---
 ---The laboratory admin can add and update plasma lab tests
 ---Plasmacenters collaborate with hospitals and NGOs in transiting plasma, can view and update available stock
 
-![classdiagramplasma](https://user-images.githubusercontent.com/114441676/206962878-efcb2b75-f0e6-4701-8133-6058dbf04b17.jpg)
-![doctor](https://user-images.githubusercontent.com/114441676/206962926-012706b0-ecac-4b4d-ae5b-34a2efac025c.jpg)
-![hospital admin](https://user-images.githubusercontent.com/114441676/206962927-14e839c6-601d-41ce-872e-f37842bb0ed9.jpg)
-![ngo admin](https://user-images.githubusercontent.com/114441676/206962929-579a6f35-0865-450f-a659-7f5e575cdb62.jpg)
-![pc admin](https://user-images.githubusercontent.com/114441676/206962930-5b868ce3-f4bc-496c-a4b6-73933937c37b.jpg)
-![system admin](https://user-images.githubusercontent.com/114441676/206962931-e866650b-cec4-4499-b468-1551a1a6cd48.jpg)
-![voluntary donor](https://user-images.githubusercontent.com/114441676/206962933-04db000a-f100-486c-88bc-f93e71b87bca.jpg)![lab](https://user-images.githubusercontent.com/114441676/206963189-6d1b937c-1897-4d97-8090-b42491dd33ab.jpg)
+
 
 
 
